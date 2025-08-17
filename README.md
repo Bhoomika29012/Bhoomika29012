@@ -69,6 +69,10 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Bhoomika29012&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
+## 📫 Connect With Me  
+- 🌍 Portfolio: _coming soon_  
+- 💼 LinkedIn: [linkedin.com/in/bhoomika-634162293](https://www.linkedin.com/in/bhoomika-634162293/)  
+- ✉️ Email: **bhoomikotyan07@gmail.com**
 
 
 
