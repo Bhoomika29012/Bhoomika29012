@@ -43,6 +43,33 @@
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursorai&logoColor=white)  
 
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhoomika29012&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika29012&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhoomika29012&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💬 Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Bhoomika29012&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
 
 
 
